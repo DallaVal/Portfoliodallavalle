@@ -1,0 +1,16 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.apresentacao{
+    width: 80%;
+    margin-top: 100px;
+    font-size: 32px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+}
+
+.apresentacao b{
+    color: rgb(255, 208, 0);
+}

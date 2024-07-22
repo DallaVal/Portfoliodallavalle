@@ -1,0 +1,65 @@
+.imagens{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+.linha1, .linha2, .linha3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.imagens a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+.vesteStyle, .agritech, .halftone{
+    height: 200px;
+    width: 200px;
+}
+
+.priscila{
+    width: 825px;
+}
+
+.imagens p{
+    font-size: 32px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+}
+
+.projetos{
+    border: solid 5px;
+    transition: 0.5s;
+}
+
+.projetos:hover{
+    transform: scale(1.1);
+}
+
+
+.headerDemo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.demo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 100px;
+}
+
+
+.banner img{
+    width: 1280px;
+}
+
